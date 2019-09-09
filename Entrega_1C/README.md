@@ -7,7 +7,7 @@
 <p> Módulo que recibe la señal de 9 switches y entrega el resultado de la suma de los cuatro primeros más los 4 siguientes más el switch carry (el siguiente), a través de leds en forma binaria (5 bits) y a través del display en forma decimal. </p>
 	   
            
-`
+``
 sw : in STD_LOGIC_VECTOR (8 downto 0);
            
 led : out STD_LOGIC_VECTOR (4 downto 0);
@@ -18,7 +18,7 @@ seg : out STD_LOGIC_VECTOR (6 downto 0);
            
 an : out STD_LOGIC_VECTOR (3 downto 0));
 
-`
+``
 
 
 
