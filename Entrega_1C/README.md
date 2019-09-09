@@ -4,7 +4,7 @@
 
 ### fulladder4.vhd:
 	   
-Módulo que recibe la señal de 9 switches y entrega el resultado de la suma 
++ Módulo que recibe la señal de 9 switches y entrega el resultado de la suma 
 	   
 de los cuatro primeros más los 4 siguientes más el switch carry (el siguiente), 
 	   
