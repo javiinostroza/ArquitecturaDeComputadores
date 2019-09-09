@@ -106,4 +106,4 @@ dejándolos de 7).
                 
 		"1111111" when others;
 
-
+### No importé el archivo Basys3.xdc, lo creé con el nombre fulladder4.xdc
